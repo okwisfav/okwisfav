@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a software developer, well-versed with front-end development frameworks using JavaScript, React, and Vue. Demonstrated mastery in web development as well as a passion for continual learning. I also have hands-on programming language such as C#,C++ assembly language. I love researching and trying new things and I'm passionate for continual learning. Please feel free to contact me via LinkedIn
+I am a software developer, well-versed with front-end development frameworks using JavaScript, React, and Vue. Demonstrated mastery in web development as well as a passion for continual learning. I also have hands-on programming language such as C#,C++ assembly language. I love researching and trying new things and I'm passionate for continual learning.
 
 * 🌍  I'm based in nigeria
 * ✉️  You can contact me at [ofegofavour@gmail.com](mailto:ofegofavour@gmail.com)
