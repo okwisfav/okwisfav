@@ -1,9 +1,11 @@
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Favour
 ================================================================================================================================================
 
-software Developer
-------------------
-
+ 
+ 
+I am a software engineer currently in Nigeria. I am passionate about web technologies.!
+👯 I’m looking to collaborate on Open source projects
+😄 Pronouns: He/him
 * ✉️  You can contact me at [ofegofavour@gmail.com](mailto:ofegofavour@gmail.com)
 
 
