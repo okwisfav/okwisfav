@@ -3,9 +3,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
  
  
-I am a software engineer currently in Nigeria. I am passionate about web technologies.!
-👯 I’m looking to collaborate on Open source projects
-😄 Pronouns: He/him
+I'm a software developer passionate about building scalable products. I focus on crafting performant, beautifully designed products and take pride in writing scalable, maintainable code.
 * ✉️  You can contact me at [ofegofavour@gmail.com](mailto:ofegofavour@gmail.com)
 
 
